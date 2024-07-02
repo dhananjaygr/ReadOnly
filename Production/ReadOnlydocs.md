@@ -10,7 +10,7 @@ Here we will learn more about how to add ReadOnly Access Permission using the Cl
 
 Before you begin adding ReadOnly Access permission, ensure you have the following prerequisites:
 
-1. Admin access to [CloudLabs Admin Portal](https://admin.cloudlabs.ai/) (If access is unavailable, kindly reach out to your point of contact or [CloudLabs Support](https://docs.cloudlabs.ai/RequestSupport).
+1. Admin access to [CloudLabs Admin Portal](https://admin.cloudlabs.ai/) (If access is unavailable, kindly reach out to your point of contact or [CloudLabs Support](https://docs.cloudlabs.ai/RequestSupport)).
 
 ### Add a ReadOnly Access Permission to the Template
 
