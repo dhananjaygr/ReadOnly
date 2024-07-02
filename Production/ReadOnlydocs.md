@@ -47,6 +47,6 @@ Before you begin adding ReadOnly Access permission, ensure you have the followin
 
 ### Setup Template on CloudLabs
 
-1. Follow the below mentioned guide to Setup AWS Template on CloudLabs.  
+Follow the below mentioned guide to Setup new AWS Template on CloudLabs.  
 
 - [Adding an AWS Template](https://docs.cloudlabs.ai/Wiz/template)  
